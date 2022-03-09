@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T05:48:37.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ecyS8gwz_0hgrT9ewpKm" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T05:50:18.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="hZTf_V1sxJhMMaDOCA1J" version="17.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,10 @@
         <mxCell id="GFoUuhYfnd0elP6GG6Nd-11" value="Sub Section" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="670" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GFoUuhYfnd0elP6GG6Nd-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;短信&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GFoUuhYfnd0elP6GG6Nd-45" value="" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=baseDash;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GFoUuhYfnd0elP6GG6Nd-12" target="GFoUuhYfnd0elP6GG6Nd-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFoUuhYfnd0elP6GG6Nd-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;短信&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="670" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFoUuhYfnd0elP6GG6Nd-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -88,7 +91,7 @@
         <mxCell id="GFoUuhYfnd0elP6GG6Nd-22" value="&lt;span style=&quot;font-size: 14px&quot;&gt;jobmanager任务管理中心&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GFoUuhYfnd0elP6GG6Nd-23" value="&lt;span style=&quot;color: rgb(26 , 26 , 26) ; font-size: 14px&quot;&gt;邮箱&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GFoUuhYfnd0elP6GG6Nd-23" value="&lt;span style=&quot;color: rgb(26 , 26 , 26) ; font-size: 14px&quot;&gt;邮箱&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="670" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFoUuhYfnd0elP6GG6Nd-31" value="restAPI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -108,6 +111,9 @@
         </mxCell>
         <mxCell id="GFoUuhYfnd0elP6GG6Nd-43" value="&lt;span style=&quot;font-size: 14px&quot;&gt;对外通知jobID&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GFoUuhYfnd0elP6GG6Nd-44" value="&lt;span style=&quot;font-size: 14px&quot;&gt;微信&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="670" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
